@@ -1,8 +1,7 @@
 # kurs
-Fun project that will output Kurs Rupiah
-
 ## install
 ```
+$ go get github.com/ridhoadya/kurs
 $ go build kurs.go
 ```
 
